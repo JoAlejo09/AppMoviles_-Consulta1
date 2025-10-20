@@ -1,0 +1,7 @@
+{
+  "name": "TareaConsulta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
